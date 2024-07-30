@@ -1,2 +1,3 @@
-# javascript_with_sinzq
-This is repo for the learning and maintain JavaScript work flow.
+#  LEARN JAVASCRIPT WITH SINZQ  <Br>
+
+### This is repo for the learning and maintain JavaScript work flow.
